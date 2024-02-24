@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094794529785",
+    "project_id": "shortvideos-df092",
+    "storage_bucket": "shortvideos-df092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094794529785:android:1e0655aaf0e789fe564b28",
+        "android_client_info": {
+          "package_name": "com.example.helloar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdU-kqvtP02wDRdbQBI4tBp82iP0sI3s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
